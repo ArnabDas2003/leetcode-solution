@@ -18,8 +18,6 @@ public:
             curr->next=prev;
             prev=curr;
             curr=nextnode;
-            
-            
         }
         return prev;
     }
