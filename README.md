@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
