@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
