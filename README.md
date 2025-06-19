@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
