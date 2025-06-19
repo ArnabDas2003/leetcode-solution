@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
+| [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
