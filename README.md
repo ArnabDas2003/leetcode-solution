@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
