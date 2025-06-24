@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
