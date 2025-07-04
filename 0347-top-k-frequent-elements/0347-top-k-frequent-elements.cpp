@@ -13,9 +13,9 @@ public:
     priority_queue<pair<int, int>> minHeap;
 
     // Use for loop to push into heap
-    for (auto i = freq.begin(); i != freq.end(); i++) {
-        int number = i->first;
-        int frequency = i->second;
+    for (auto i: freq) {
+        int number = i.first;
+        int frequency = i.second;
 
         minHeap.push({frequency, number});  // Push the pair
     }
