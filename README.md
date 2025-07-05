@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 ## Backtracking
