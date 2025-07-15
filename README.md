@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0283-move-zeroes) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
