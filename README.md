@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
