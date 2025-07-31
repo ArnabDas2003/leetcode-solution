@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
