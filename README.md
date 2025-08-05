@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Breadth-First Search
 |  |
