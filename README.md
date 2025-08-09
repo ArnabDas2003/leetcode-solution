@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2050-count-good-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
