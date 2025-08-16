@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
