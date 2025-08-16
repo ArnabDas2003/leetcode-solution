@@ -1,26 +1,26 @@
 class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
-        unordered_map<int, int> freq;
+        int freq[101] = {0};   // frequency array
 
-        // Step 1: Count frequencies
+        // count frequencies
         for (int i = 0; i < nums.size(); i++) {
             freq[nums[i]]++;
         }
 
-        // Step 2: Find the maximum frequency
+        // find max frequency
         int maxFreq = 0;
-        for (unordered_map<int,int>::iterator it = freq.begin(); it != freq.end(); it++) {
-            if (it->second > maxFreq) {
-                maxFreq = it->second;
+        for (int i = 1; i <= 100; i++) {
+            if (freq[i] > maxFreq) {
+                maxFreq = freq[i];
             }
         }
 
-        // Step 3: Count how many elements have frequency == maxFreq
+        // count total elements with max frequency
         int total = 0;
-        for (unordered_map<int,int>::iterator it = freq.begin(); it != freq.end(); it++) {
-            if (it->second == maxFreq) {
-                total += it->second;
+        for (int i = 1; i <= 100; i++) {
+            if (freq[i] == maxFreq) {
+                total += freq[i];
             }
         }
 
