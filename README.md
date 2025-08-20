@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
@@ -270,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
