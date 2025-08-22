@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -282,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
