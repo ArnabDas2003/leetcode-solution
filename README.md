@@ -289,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
