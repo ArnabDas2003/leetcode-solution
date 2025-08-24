@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Database
