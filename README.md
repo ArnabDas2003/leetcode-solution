@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -311,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
