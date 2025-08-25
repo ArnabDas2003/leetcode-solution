@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0176-second-highest-salary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
