@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0169-majority-element) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
