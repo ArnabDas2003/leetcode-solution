@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0189-rotate-array) |
