@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0135-candy) |
+| [1917-maximum-average-pass-ratio](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ArnabDas2003/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1917-maximum-average-pass-ratio](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
 |  |
 | ------- |
