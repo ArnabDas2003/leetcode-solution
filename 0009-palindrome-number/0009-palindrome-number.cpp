@@ -9,7 +9,7 @@ public:
             rev=rev*10+digit;
             temp=temp/10;
         }
-        return (x==rev);
+        return (rev==x);
 
      
     }
