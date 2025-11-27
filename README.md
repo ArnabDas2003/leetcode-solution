@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ArnabDas2003/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
