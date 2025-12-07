@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArnabDas2003/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1470-shuffle-the-array](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ArnabDas2003/leetcode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
